@@ -1,4 +1,4 @@
-# Omniauth::Swedbank
+# Omniauth::Seb
 
 Omniauth strategy for using SEB as an authentication service provider.
 
